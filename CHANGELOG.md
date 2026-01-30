@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0] (2026-01-30)
+
+
+### Features
+
+* **dependencies:** upgrade to algoliasearch v5
+
+
+### BREAKING CHANGES
+
+* **dependencies:** migrate from algoliasearch v3/v4 to v5
+* Updated API calls to use new v5 method signatures with indexName parameter
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/algolia/gatsby-plugin-algolia/compare/v1.0.2...v1.0.3) (2023-01-17)
 
